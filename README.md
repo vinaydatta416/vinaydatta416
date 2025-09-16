@@ -1,10 +1,3 @@
-<!--
-**vinaydatta416/vinaydatta416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
-
-
 <h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
 <h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
 
@@ -100,3 +93,12 @@ Detail-oriented and motivated **VLSI Design & Verification Engineer** with hands
 
 ---
 
+![Snake animation](https://github.com/CruzNadin/cruznadin/raw/main/github-contribution-grid-snake.gif)
+
+![T-Rex Game](https://github.com/knickers/chrome-t-rex-game/raw/master/t-rex.gif)
+
+![Microprocessor GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybnA5eG55Y3A5MjZ2a2h6MnM0bDFyN2F0aDJqeXhyd2tzeTcwaGY2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EC5kEeJ4qz8ipD1S4R/giphy.gif)
+
+![Microprocessor Animation](https://i.makeagif.com/media/1-13-2021/DmNr0_.gif)
+
+![Circuit Animation](https://i.makeagif.com/media/2-02-2023/BboWfJ.gif)
