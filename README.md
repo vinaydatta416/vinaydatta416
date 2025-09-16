@@ -97,7 +97,6 @@ Detail-oriented and motivated **VLSI Design & Verification Engineer** with hands
 
 ![T-Rex Game](https://github.com/knickers/chrome-t-rex-game/raw/master/t-rex.gif)
 
-![Microprocessor GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybnA5eG55Y3A5MjZ2a2h6MnM0bDFyN2F0aDJqeXhyd2tzeTcwaGY2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EC5kEeJ4qz8ipD1S4R/giphy.gif)
 
 ![Microprocessor Animation](https://i.makeagif.com/media/1-13-2021/DmNr0_.gif)
 
