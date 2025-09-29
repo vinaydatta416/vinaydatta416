@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinaydatta416&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" 6 /> 
+  <img src="https://komarev.com/ghpvc/?username=vinaydatta416&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
