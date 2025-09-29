@@ -39,7 +39,7 @@ Detail-oriented and motivated **VLSI Design & Verification Engineer** with hands
 ---
 
 ## 💻 Projects
-  -** AHB2APB Bridge Verification using UVM **  
+ - 🔹**AHB2APB Bridge Verification using UVM **  
   - Designed and verified a bridge to convert AHB transactions to APB operations.  
   - Developed a reusable UVM-based testbench for transaction flow and protocol checks.  
   - Implemented **SystemVerilog Assertions (SVA)** to validate timing and conversions.  
