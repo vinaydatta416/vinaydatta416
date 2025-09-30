@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 ---
 
 ## 📝 Summary
