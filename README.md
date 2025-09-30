@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
 <h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
 
-
-![](https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2536)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2536&color=blue" alt="Profile views"/>
 </p>
