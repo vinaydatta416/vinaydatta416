@@ -5,9 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2536)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2536&color blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2536&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2536&color=black" alt="Profile views"/>
 </p>
-
 
 ---
 
