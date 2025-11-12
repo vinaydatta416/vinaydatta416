@@ -24,15 +24,12 @@ Detail-oriented and motivated **VLSI Design & Verification Engineer** with hands
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Scripting-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=black" />
   <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Synopsys%20VCS-FF4500?style=for-the-badge&logo=synopsys&logoColor=white" />
   <img src="https://img.shields.io/badge/QuestaSim-4682B4?style=for-the-badge&logo=mentor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-AA0000?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/EDA_Playground-008080?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
