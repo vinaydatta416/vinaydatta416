@@ -81,10 +81,8 @@ Detail-oriented and motivated **VLSI Design & Verification Engineer** with hands
 ---
 
 ## 🔥 Streak Stats
----
 
 ![Snake animation](https://github.com/CruzNadin/cruznadin/raw/main/github-contribution-grid-snake.gif)
 
 ![T-Rex Game](https://github.com/knickers/chrome-t-rex-game/raw/master/t-rex.gif)
 
-![Circuit Animation](https://i.makeagif.com/media/2-02-2023/BboWfJ.gif)
