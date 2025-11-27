@@ -5,6 +5,7 @@
 ----
 
 <h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
+
 <h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
 
 
