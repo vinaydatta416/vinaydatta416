@@ -85,11 +85,8 @@ Entry-level **VLSI Design & Verification Engineer** with practical hands-on expe
 ## 🔐 Productivity & Repo Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaydatta416&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaydatta416&theme=dracula"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinaydatta416&theme=dracula&utcOffset=5.5" />
-
- 
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaydatta416&theme=dracula" />
 </p>
 
