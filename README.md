@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
-<h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2900&color=blue" alt="Profile views"/>
 </p>
+
+----
+
+<h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
+<h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
+
 
 ---
 
@@ -111,10 +114,5 @@ Entry-level **VLSI Design & Verification Engineer** with practical hands-on expe
 ![Snake animation](https://github.com/CruzNadin/cruznadin/raw/main/github-contribution-grid-snake.gif)
 
 ![T-Rex Game](https://github.com/knickers/chrome-t-rex-game/raw/master/t-rex.gif)
-
-
-
-
-
 
 
