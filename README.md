@@ -82,19 +82,16 @@ Entry-level **VLSI Design & Verification Engineer** with practical hands-on expe
 - ▶️ **EDA Playground:** https://www.edaplayground.com
 
 ---
-## 🔐 Productivity & Repo Stats
+
+## 📊 GitHub Stats & Activity
+
 
 <p align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaydatta416&theme=dracula" />
 </p>
 
----
-
-## 📊 GitHub Stats & Activity
-
 <div align="center">
- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaydatta416&layout=compact&langs_count=5&theme=dracula" height="170" />
 </div>
 
