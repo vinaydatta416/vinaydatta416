@@ -85,8 +85,7 @@ Entry-level **VLSI Design & Verification Engineer** with practical hands-on expe
 ## 🔐 Productivity & Repo Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaydatta416&theme=dracula"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinaydatta416&theme=dracula&utcOffset=5.5" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaydatta416&theme=dracula" />
 </p>
 
@@ -95,13 +94,9 @@ Entry-level **VLSI Design & Verification Engineer** with practical hands-on expe
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaydatta416&show_icons=true&theme=dracula&count_private=true" height="170" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaydatta416&layout=compact&langs_count=5&theme=dracula" height="170" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaydatta416&theme=dracula" />
-</p>
 
 ---
 
