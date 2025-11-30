@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2900&color=blue" alt="Profile views"/>
 </p>
+
+---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Design+and+Verification+Engineer;Aspiring+Functional+Verification+Engineer=Fira%20Code¢er=true&width=380&height=30)
 
 
