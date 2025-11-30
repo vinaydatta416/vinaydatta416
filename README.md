@@ -2,15 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=2900&color=blue" alt="Profile views"/>
 </p>
 
----
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+VLSI+Design+and+Verification+Engineer;Aspiring+VLSI+Functional+Verification+Engineer=Fira%20Code¢er=true&width=380&height=30)
-
 
 ----
 
 <h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
 
-<h3 align="center">Aspiring VLSI Design & Verification Engineer</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+VLSI+Design+and+Verification+Engineer;Aspiring+VLSI+Functional+Verification+Engineer=Fira%20Code¢er=true&width=380&height=30)
 
 
 ---
