@@ -3,7 +3,7 @@
 </p>
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Design+and+Verification+Engineer;Aspiring+Functional+Verification+Engineer=Fira%20Code¢er=true&width=380&height=30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+VLSI+Design+and+Verification+Engineer;Aspiring+VLSI+Functional+Verification+Engineer=Fira%20Code¢er=true&width=380&height=30)
 
 
 ----
