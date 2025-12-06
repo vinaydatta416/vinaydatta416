@@ -68,14 +68,6 @@ Entry-level **VLSI Design & Verification Engineer** with practical hands-on expe
 
 ---
 
-## 🎓 Education
-| Course | Institute | Year | Result |
-|--------|-----------|--------|--------|
-| **B.Tech – ECE** | Aditya College of Engineering | 2020–2023 | 6.8 CGPA |
-| **Diploma – ECE** | Sir C R Reddy Polytechnic College | 2017–2020 | 76% |
-| **SSC** | Surya Model Public School | 2016–2017 | 7.5 GPA |
-
----
 
 ## 🔗 EDA Links
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/vinaydattamucharla
