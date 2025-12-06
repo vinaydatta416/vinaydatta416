@@ -13,7 +13,7 @@
 ---
 
 ## 📝 Summary
-Entry-level **VLSI Design & Verification Engineer** with practical hands-on experience in **UVM-based testbench development, functional verification, and assertions**. Proficient in **Verilog, SystemVerilog, UVM**, and **AMBA protocols (AHB, APB, AHB–APB Bridge)**. Experienced in building **simple, modular, reusable verification environments** and achieving **high functional and assertion coverage**.Highly motivated to contribute to semiconductor IP development and strengthen real-time verification expertise.
+>Entry-level **VLSI Design & Verification Engineer** with practical hands-on experience in **UVM-based testbench development, functional verification, and assertions**. Proficient in **Verilog, SystemVerilog, UVM**, and **AMBA protocols (AHB, APB, AHB–APB Bridge)**. Experienced in building **simple, modular, reusable verification environments** and achieving **high functional and assertion coverage**.Highly motivated to contribute to semiconductor IP development and strengthen real-time verification expertise.
 
 ---
 
