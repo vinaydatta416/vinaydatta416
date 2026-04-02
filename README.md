@@ -84,16 +84,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaydatta416&theme=dracula" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaydatta416&layout=compact&langs_count=5&theme=dracula" height="170" />
-</div>
-
----
-
-![Snake animation](https://github.com/CruzNadin/cruznadin/raw/main/github-contribution-grid-snake.gif)
-
-![T-Rex Game](https://github.com/knickers/chrome-t-rex-game/raw/master/t-rex.gif)
-
-
---------
-
