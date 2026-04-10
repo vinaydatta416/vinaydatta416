@@ -11,7 +11,10 @@
 ---
 
 ## 📝 Summary
->Entry-level **VLSI Design & Verification Engineer** with practical hands-on experience in **UVM-based testbench development, functional verification, and assertions**. Proficient in **Verilog, SystemVerilog, UVM**, and **AMBA protocols (AHB, APB, AHB–APB Bridge)**. Experienced in building **simple, modular, reusable verification environments** and achieving **high functional and assertion coverage**.Highly motivated to contribute to semiconductor Testbench development and strengthen real-time verification expertise.
+>Trained in VLSI Design & Verification from Maven Silicon, with hands-on Verilog, SystemVerilog, and UVM. Skilled in
+developing UVM-based testbenches, AHB-to-APB Bridge and Dual Port RAM & Synchronous FIFO RTL verification
+using SystemVerilog and UVM. Familiar with AMBA protocols (AHB, APB) and reusable Testbench.
+
 
 ---
 
@@ -48,11 +51,11 @@
 
 ### Dual Port RAM & Synchronous FIFO RTL Design & Verification using SystemVerilog, UVM
 
-• Designed and verified Dual Port RAM supporting simultaneous read and write operations
-• Developed sequences for reset, full, empty, overflow, and underflow conditions.
-• Created sequences for random, even, and odd address/data patterns and handshake
-• Developed UVM testbench including driver, monitor, scoreboard, and sequences
-• Implemented assertions and functional coverage achieving 98% coverage
+- Designed and verified Dual Port RAM supporting simultaneous read and write operations
+- Developed sequences for reset, full, empty, overflow, and underflow conditions.
+- Created sequences for random, even, and odd address/data patterns and handshake
+- Developed UVM testbench including driver, monitor, scoreboard, and sequences
+- Implemented assertions and functional coverage achieving 98% coverage
 ---
 
 ## 📜 Certification
