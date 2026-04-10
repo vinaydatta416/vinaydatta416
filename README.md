@@ -18,6 +18,18 @@ using SystemVerilog and UVM. Familiar with AMBA protocols (AHB, APB) and reusabl
 
 ---
 
+## EXPERIENCE
+###Advanced VLSI Design and Verification Training, Maven Silicon Aug 2024 – May 2025
+- Industry-oriented training in Verilog, SystemVerilog, and UVM methodology
+- Used Synopsys VCS, QuestaSim, GVim, Linux, and Makefiles for simulation
+- Developed SystemVerilog-based verification environments and reusable UVM testbenches
+- Wrote multiple test cases, constraints, assertions, and functional coverage
+### Design & Verification Intern, Maven Silicon May 2025 – July 2025
+- Worked on AHB-APB bridge, Dual Port RAM FIFO verification using UVM Testbench
+- Developed reusable UVM testbenches and multiple test cases for RTL verification
+- Used constraints, assertions, and functional coverage for verification.
+
+--------
 ## ⚡ VLSI SKILLS & TOOLS
 
 <p align="left">
