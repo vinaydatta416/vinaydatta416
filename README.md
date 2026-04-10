@@ -8,7 +8,8 @@
 ---
 
 ## 📝 Summary
-Aspiring VLSI Design & Verification Engineer with hands-on knowledge of Verilog, SystemVerilog, and UVM. Trained in VLSI Design & Verification from Maven Silicon. Skilled in UVM-based testbench development, assertions (SVA), functional coverage, and constraints. Completed RTL verification projects including AHB–APB Bridge and Dual Port RAM & Synchronous FIFO. Familiar with AMBA protocols (AHB, APB).
+
+> Aspiring VLSI Design & Verification Engineer with hands-on knowledge of Verilog, SystemVerilog, and UVM. Trained in VLSI Design & Verification from Maven Silicon. Skilled in UVM-based testbench development, assertions (SVA), functional coverage, and constraints. Completed RTL verification projects including AHB–APB Bridge and Dual Port RAM & Synchronous FIFO. Familiar with AMBA protocols (AHB, APB).
 ---
 
 ## ⚡ Skills
