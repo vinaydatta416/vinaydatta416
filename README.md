@@ -1,12 +1,11 @@
+
+<h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
+<h2 align="center">Aspireing Design & Verification Engineer </h2>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=000&color=blue" alt="Profile views"/>
 </p>
-
-
-----
-
-<h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
-
 
 ---
 
