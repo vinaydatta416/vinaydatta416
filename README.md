@@ -9,14 +9,6 @@
 
 ## 📝 Summary
 Aspiring VLSI Design & Verification Engineer with hands-on knowledge of Verilog, SystemVerilog, and UVM. Trained in VLSI Design & Verification from Maven Silicon. Skilled in UVM-based testbench development, assertions (SVA), functional coverage, and constraints. Completed RTL verification projects including AHB–APB Bridge and Dual Port RAM & Synchronous FIFO. Familiar with AMBA protocols (AHB, APB).
-
----
-
-## 📞 Contact
-- Phone: 6300446795  
-- Email: vinaydattamucharla416@gmail.com  
-- LinkedIn: linkedin.com/in/vinaydattam  
-
 ---
 
 ## ⚡ Skills
@@ -79,3 +71,9 @@ May 2025 – July 2025
 
 ## 📜 Certification
 - SystemVerilog & UVM – Maven Silicon
+
+---
+
+## 📞 Contact
+- Email: vinaydattamucharla416@gmail.com  
+- LinkedIn: linkedin.com/in/vinaydattam  
