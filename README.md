@@ -19,7 +19,7 @@ using SystemVerilog and UVM. Familiar with AMBA protocols (AHB, APB) and reusabl
 ---
 
 ## EXPERIENCE
-###Advanced VLSI Design and Verification Training, Maven Silicon Aug 2024 – May 2025
+### Advanced VLSI Design and Verification Training, Maven Silicon Aug 2024 – May 2025
 - Industry-oriented training in Verilog, SystemVerilog, and UVM methodology
 - Used Synopsys VCS, QuestaSim, GVim, Linux, and Makefiles for simulation
 - Developed SystemVerilog-based verification environments and reusable UVM testbenches
@@ -32,24 +32,10 @@ using SystemVerilog and UVM. Familiar with AMBA protocols (AHB, APB) and reusabl
 --------
 ## ⚡ VLSI SKILLS & TOOLS
 
-<p align="left">
-  <!-- HDL -->
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-FF1493?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/UVM-000000?style=for-the-badge&logo=uml&logoColor=white" />
-
-  <!-- PROTOCOLS -->
-  <img src="https://img.shields.io/badge/AHB-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APB-28A745?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AHB--APB%20Bridge-8B0000?style=for-the-badge" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Synopsys%20VCS-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QuestaSim-4682B4?style=for-the-badge" />
-
-  <!-- Scripting -->
-  <img src="https://img.shields.io/badge/Bash_Scripting-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=black" />
-</p>
+- Languages: Verilog, SystemVerilog, UVM Protocols: 
+- AHB, APB, AHB–APB Bridge
+- Tools: Synopsys VCS, QuestaSim, Verdi 
+- Other: Linux, Makefiles, GVi
 
 ---
 
