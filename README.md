@@ -2,14 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=vinaydatta416-github-username&base=000&color=blue" alt="Profile views"/>
 </p>
 
-
-----
-
-<h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+VLSI+Design+and+Verification+Engineer;Aspiring+VLSI+Functional+Verification+Engineer=Fira%5Code¢er=true&width=500&height=50)
-
-
 ---
 
 ## 📝 Summary
@@ -48,12 +40,13 @@
 - Implemented AHB-to-APB conversion and created verification packets.
 - Achieved **98% functional & assertion coverage** using coverage and SVA.
 
-### 🔹 **Router 1x3 Verification using UVM**
-- Verified 1x3 router using **reusable UVM testbench**.
-- Generated **small, medium & large packets** with different addresses and payload lengths.
-- Implemented **assertions and functional coverage** for checking routing logic.
-- Achieved **98% functional & assertion coverage**.
+### Dual Port RAM & Synchronous FIFO RTL Design & Verification using SystemVerilog, UVM
 
+• Designed and verified Dual Port RAM supporting simultaneous read and write operations
+• Developed sequences for reset, full, empty, overflow, and underflow conditions.
+• Created sequences for random, even, and odd address/data patterns and handshake
+• Developed UVM testbench including driver, monitor, scoreboard, and sequences
+• Implemented assertions and functional coverage achieving 98% coverage
 ---
 
 ## 📜 Certification
