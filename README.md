@@ -77,4 +77,4 @@ May 2025 – July 2025
 
 ## 📞 Contact
 - Email: vinaydattamucharla416@gmail.com  
-- LinkedIn: linkedin.com/in/vinaydattam  
+- LinkedIn: [linkedin.com/in/vinaydattam  ](https://www.linkedin.com/in/vinaydattam/)
