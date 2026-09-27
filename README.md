@@ -9,53 +9,56 @@
 
 ## 📝 Summary
 
-> Aspiring VLSI Design & Verification Engineer with hands-on knowledge of Verilog, SystemVerilog, and UVM. Trained in VLSI Design & Verification from Maven Silicon. Skilled in UVM-based testbench development, assertions (SVA), functional coverage, and constraints. Completed RTL verification projects including AHB–APB Bridge and Dual Port RAM & Synchronous FIFO. Familiar with AMBA protocols (AHB, APB).
+> VLSI Design and Verification Engineer trained at Maven Silicon with hands-on experience in Verilog, SystemVerilog, and UVM. Trained in developing reusable UVM-based verification environments for Dual-Port RAM and Router 1x3. Familiar with constrained-random verification, functional coverage, SystemVerilog Assertions (SVA), and AMBA protocols including AHB and APB. Seeking an entry-level opportunity in VLSI Design and Verification.
+
 ---
 
 ## ⚡ Skills
 
-- **Languages:** Verilog, SystemVerilog, UVM  
-- **Protocols:** AHB, APB, AHB–APB Bridge  
-- **Tools:** Synopsys VCS, QuestaSim, Verdi  
-- **Other:** Linux, Makefiles, GVim  
+* **HDL / HVL:** Verilog, SystemVerilog, UVM
+* **Verification:** UVM Testbench, SVA
+* **Protocols:** AMBA AHB, APB Basics
+* **EDA Tools:** Synopsys VCS, QuestaSim, Verdi
+* **Tools / OS:** Linux, Makefile, GVim
 
 ---
 
-## 💼 Experience
+## 🎓 Training
 
-### Advanced VLSI Design and Verification Training, Maven Silicon  
-Aug 2024 – May 2025
-- Industry-oriented training in Verilog, SystemVerilog, and UVM methodology  
-- Used Synopsys VCS, QuestaSim, GVim, Linux, and Makefiles for simulation  
-- Developed SystemVerilog-based verification environments and reusable UVM testbenches  
-- Wrote testcases, constraints, assertions (SVA), and functional coverage  
+### Advanced VLSI Design and Verification Training – Maven Silicon
 
-### Design & Verification Intern, Maven Silicon  
-May 2025 – July 2025
-- Worked on AHB–APB Bridge and Dual Port RAM & FIFO verification using UVM testbench  
-- Developed reusable UVM testbenches and multiple testcases for RTL verification  
-- Used constraints, assertions, and functional coverage  
+**Aug 2024 – May 2025**
+
+* Completed intensive training in Verilog, SystemVerilog, UVM, and digital verification methodologies
+* Developed reusable SystemVerilog and UVM-based verification environments for digital designs
+* Worked with Synopsys VCS, QuestaSim, and Verdi in a Linux-based simulation environment
+* Gained hands-on experience with functional coverage, assertions, constrained-random testing, and coverage-driven verification
 
 ---
 
 ## 💻 Projects
 
-### AHB2APB Bridge RTL Design & Verification using SystemVerilog, UVM
-- Built reusable UVM testbench for AMBA AHB–APB bridge verification  
-- Developed testcases for write, burst, increment, wrap, and boundary conditions  
-- Developed UVM components including driver, monitor, sequencer, and scoreboard  
-- Implemented assertions (SVA) and functional coverage achieving 98% coverage  
-- Used Synopsys VCS, QuestaSim, and Verdi for simulation and debugging  
+### Dual-Port RAM RTL Design & UVM Verification
 
-### Dual Port RAM & Synchronous FIFO RTL Design & Verification using SystemVerilog, UVM
-- Designed and verified Dual Port RAM supporting simultaneous read and write operations  
-- Developed sequences for reset, full, empty, overflow, and underflow conditions  
-- Created sequences for random, even, odd address/data patterns, and handshake operations  
-- Developed UVM testbench including driver, monitor, sequencer, and scoreboard  
-- Implemented assertions (SVA) and functional coverage achieving 98% coverage  
-- Verified data integrity under parallel read/write operations  
+**SystemVerilog, UVM, Synopsys VCS, Verdi**
+
+* Designed and verified a Dual-Port RAM supporting concurrent read and write operations
+* Developed UVM sequences and test scenarios covering reset, full, empty, overflow, and underflow conditions
+* Built a reusable UVM environment consisting of sequence items, sequences, driver, monitor, scoreboard, and test components
+* Implemented SystemVerilog Assertions (SVA) for protocol and functional checks, achieving approximately 98% assertion/functional coverage
+
+### Router 1x3 RTL Design & UVM Verification
+
+**SystemVerilog, UVM, Synopsys VCS, Verdi**
+
+* Developed and verified test scenarios for small, medium, and large packets across multiple destination ports
+* Built a reusable UVM testbench with driver, monitor, scoreboard, sequences, and functional coverage components
+* Implemented coverage-driven verification to validate packet routing, reset behavior, and destination-based forwarding
+* Designed the verification environment with scalability and reusability for future 1x5 and 1x7 router architectures
+* Achieved approximately 98% functional and assertion coverage
 
 ---
+
 
 ## 🎓 Education
 
@@ -67,14 +70,15 @@ May 2025 – July 2025
 
 - **10th Class**  
   Sri Surya Model Public School (2016 – 2017) | CGPA: 7.5  
-
 ---
 
 ## 📜 Certification
-- SystemVerilog & UVM – Maven Silicon
+
+* **SystemVerilog & UVM – Maven Silicon**
 
 ---
 
 ## 📞 Contact
-- Email: vinaydattamucharla416@gmail.com  
-- LinkedIn: [linkedin.com/in/vinaydattam  ](https://www.linkedin.com/in/vinaydattam/)
+
+* **Email:** [vinaydattamucharla416@gmail.com](mailto:vinaydattamucharla416@gmail.com)
+* **LinkedIn:** [linkedin.com/in/vinaydattam](https://www.linkedin.com/in/vinaydattam/)
