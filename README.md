@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay Datta Mucharla</h1>
+<h1 align="center">Vinay Datta Mucharla</h1>
 <h2 align="center">Aspiring VLSI Design & Verification Engineer</h2>
 
 <p align="center">
@@ -9,18 +9,19 @@
 
 ## 📝 Summary
 
-> VLSI Design and Verification Engineer trained at Maven Silicon with hands-on experience in Verilog, SystemVerilog, and UVM. Trained in developing reusable UVM-based verification environments for Dual-Port RAM and Router 1x3. Familiar with constrained-random verification, functional coverage, SystemVerilog Assertions (SVA), and AMBA protocols including AHB and APB. Seeking an entry-level opportunity in VLSI Design and Verification.
+> VLSI Design and Verification Engineer trained at Maven Silicon with hands-on experience in Verilog, SystemVerilog, and UVM. Trained in developing reusable UVM-based verification environments for Dual-Port RAM and Router 1x3. Familiar with constrained-random verification, functional coverage, SystemVerilog Assertions (SVA), and Basics of AMBA protocols including AHB and APB. Seeking an entry-level opportunity in VLSI Design and Verification.
 
 ---
 
-## ⚡ Skills
+## 🛠️ Technical Skills
 
-* **HDL / HVL:** Verilog, SystemVerilog, UVM
-* **Verification:** UVM Testbench, SVA
-* **Protocols:** AMBA AHB, APB Basics
-* **EDA Tools:** Synopsys VCS, QuestaSim, Verdi
-* **Tools / OS:** Linux, Makefile, GVim
-
+| Category | Skills |
+|:---|:---|
+| **HDL / HVL** | Verilog, SystemVerilog, UVM |
+| **Verification** | UVM Testbench, SVA |
+| **Protocols** | AMBA AHB, APB Basics |
+| **EDA Tools** | Synopsys VCS, QuestaSim, Verdi |
+| **Tools / OS** | Linux, Makefile, GVim |
 ---
 
 ## 🎓 Training
@@ -62,15 +63,13 @@
 
 ## 🎓 Education
 
-- **B.Tech in Electronics and Communication Engineering**  
-  Aditya College of Engineering (2020 – 2023) | CGPA: 6.8  
+| Qualification | Institution | Year | Score |
+|:---|:---|:---:|:---:|
+| 🎓 B.Tech – Electronics and Communication Engineering | Aditya College of Engineering | 2020–2023 | 6.8 CGPA |
+| 📘 Diploma – Electronics and Communication Engineering | Sir C R Reddy Polytechnic | 2017–2020 | 76% |
+| 🏫 10th Class | Sri Surya Model Public School | 2016–2017 | 7.5 CGPA |
 
-- **Diploma in Electronics and Communication Engineering**  
-  Sir C R Reddy Polytechnic (2017 – 2020) | 76%  
-
-- **10th Class**  
-  Sri Surya Model Public School (2016 – 2017) | CGPA: 7.5  
----
+-----
 
 ## 📜 Certification
 
@@ -80,5 +79,7 @@
 
 ## 📞 Contact
 
-* **Email:** [vinaydattamucharla416@gmail.com](mailto:vinaydattamucharla416@gmail.com)
-* **LinkedIn:** [linkedin.com/in/vinaydattam](https://www.linkedin.com/in/vinaydattam/)
+- **Email:** [vinaydattamucharla416@gmail.com](mailto:vinaydattamucharla416@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vinaydattam](https://www.linkedin.com/in/vinaydattam/)
+- **Blogger:** [Visit my Blogger profile](https://www.blogger.com/u/1/blog/posts/2007545621613410253)
+- **Medium:** [@vinaydattamucharla416](https://medium.com/@vinaydattamucharla416)
