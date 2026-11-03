@@ -83,3 +83,8 @@
 - **LinkedIn:** [linkedin.com/in/vinaydattam](https://www.linkedin.com/in/vinaydattam/)
 - **Blogger:** [Visit my Blogger profile](https://www.blogger.com/u/1/blog/posts/2007545621613410253)
 - **Medium:** [@vinaydattamucharla416](https://medium.com/@vinaydattamucharla416)
+
+----
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinaydatta416&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
